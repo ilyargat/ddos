@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-# Dev: FSystem88
+# Dev: mlf
 # Version: 5
 
 import requests as r, os, threading, random, click
